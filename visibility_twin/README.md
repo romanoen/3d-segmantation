@@ -27,7 +27,10 @@ NBV-Vorhersage nur aus dem aktuellen Gitter (`nbv.py`) → Evaluation: gewählte
 echten Scandaten hinzufügen und alles neu berechnen → HTML.
 
 Die Objekt-ID pro Punkt ist eine **Orakel-Segmentierung** aus der Simulation. In echten Daten
-müsste sie ersetzt werden.
+müsste sie ersetzt werden. Der getrennte [E57-Prototyp](../e57/README.md)
+erzeugt bisher nur geometrische Segment-IDs; seine RANSAC-Ergebnisse werden
+hier noch nicht verwendet. Die Abgrenzung und ein möglicher Integrationspfad
+stehen in [ARCHITEKTUR.md](../ARCHITEKTUR.md).
 
 ## Worauf man im Viewer achten sollte
 

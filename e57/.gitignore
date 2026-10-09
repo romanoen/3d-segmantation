@@ -1,0 +1,8 @@
+# Reproduzierbare lokale Ausgaben; Quellcode und Tests bleiben versioniert.
+/*_output/
+/room_noise_*/
+/construction_site_radius_*/
+/dense_scan_*/
+/construction_gap_results.csv
+/robustness_results.csv
+*.e57
